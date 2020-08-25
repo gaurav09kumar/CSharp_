@@ -15,21 +15,27 @@ namespace SampleApplication1
             //Palindrome_3 object_3 = new Palindrome_3();
             //object_3.Palindrome();
 
-            Array_List_4 object_4 = new Array_List_4();
-            object_4.Arr_List();
+            //Array_List_4 object_4 = new Array_List_4();
+            //object_4.Arr_List();
 
             //Hashtable_Demo object_5 = new Hashtable_Demo();
             //object_5.Hash_table();
 
-            Queue_5 object_6 = new Queue_5();
-            object_6.Queue_method();
+            //Queue_5 object_6 = new Queue_5();
+            //object_6.Queue_method();
 
-            Stack_6 object_7 = new Stack_6();
-            object_7.Stack_Method();
+            //Stack_6 object_7 = new Stack_6();
+            //object_7.Stack_Method();
 
-            Concurrent_Stack_Queue object_9 = new Concurrent_Stack_Queue();
-            object_9.Concurrent_Stack();
-            object_9.Concurrent_Queue();
+            //Concurrent_Stack_Queue object_9 = new Concurrent_Stack_Queue();
+            //object_9.Concurrent_Stack();
+            //object_9.Concurrent_Queue();
+
+            Single_Inheritance_8 object_10 = new Single_Inheritance_8();
+            object_10.Inheritance();
+
+            MultiLevel_Inheritance_9 object_11 = new MultiLevel_Inheritance_9();
+            object_11.MultiLev_Inh();
 
             Console.ReadKey();
         }
